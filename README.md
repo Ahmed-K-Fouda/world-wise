@@ -1,6 +1,6 @@
-# City Explorer
+# World Wise
 
-City Explorer is a comprehensive web application that allows users to explore cities and countries. Users can add cities to their list, view details about the cities, and explore countries they've visited. The app utilizes React, React Router, and various hooks to manage state and handle side effects.
+World Wise is a comprehensive web application that allows users to explore cities and countries. Users can add cities to their list, view details about the cities, and explore countries they've visited. The app utilizes React, React Router, and various hooks to manage state and handle side effects.
 
 ## Features
 
