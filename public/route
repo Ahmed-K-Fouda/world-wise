@@ -1,0 +1,22 @@
+-- what is routing?
+we are match different url to different UI views.
+e.g => www.example.com , www.example.com/login.
+
+- the routing enable users to navigate between diffrent application screen using browser url.
+
+- and keep UI in sync with browser url
+
+-- we use routing using third library called ==> React Router
+
+-- this allow us to build Single Page Application (SPA)
+
+-- the SPA => executed entirley on the client(browser)
+
+-- how SPA work => user click router link ==> the url changed ==> DOM is updated ==> the page is never reloaded feel like a native app
+
+-- to install => npm i react-router-dom
+<BrowserRouter>
+<Routes>
+<Route path = 'pricing' element = {Pricing}></Route>
+</Routes>
+</BrowserRouter>

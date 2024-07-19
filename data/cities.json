@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "c21f",
+      "cityName": "Urizaharra / Penacerrada",
+      "country": "Spain",
+      "date": "2024-07-08T04:31:37.912Z",
+      "notes": "",
+      "emoji": "🇪🇸",
+      "position": {
+        "lat": "42.63433527744662",
+        "lng": "-2.644640696846812"
+      }
+    },
+    {
+      "id": "240b",
+      "cityName": "Jaraicejo",
+      "country": "Spain",
+      "date": "2024-07-08T04:31:40.660Z",
+      "notes": "",
+      "emoji": "🇪🇸",
+      "position": {
+        "lat": "39.750492044589706",
+        "lng": "-5.797867855997975"
+      }
+    },
+    {
+      "id": "f561",
+      "cityName": "Vistabella del Maestrazgo",
+      "country": "Spain",
+      "date": "2024-07-08T04:56:35.101Z",
+      "notes": "",
+      "emoji": "🇪🇸",
+      "position": {
+        "lat": "40.33890953472195",
+        "lng": "-0.29392387835811773"
+      }
+    }
+  ]
+}
